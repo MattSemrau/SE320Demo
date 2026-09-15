@@ -2,4 +2,15 @@ Making changes to this text file.
 date=09/15/2026
 day=Tuesday
 
-remember to do git push -u origin main
+
+
+Pull for current version:
+	git pull origin main
+
+
+To add changes to file:
+
+	git status (check if commit or add needed)
+	git add .
+	git commit -m "message you need"
+	git push -u origin main
