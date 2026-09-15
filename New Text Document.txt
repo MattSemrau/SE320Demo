@@ -1,4 +1,5 @@
 Making changes to this text file.
+date=09/15/2026
+day=Tuesday
 
-date=09/10/2026
-day=Thur
+remember to do git push -u origin main
